@@ -8,7 +8,7 @@
 ![Localization](https://badges.crowdin.net/reactive-resume/localized.svg)
 ![GitHub](https://img.shields.io/github/license/AmruthPillai/Reactive-Resume)
 
-#### A Free and Open-Source Resume Builder That Respects Your Privacy
+#### A Free, Open-Source Resume Builder That Respects Your Privacy
 
 Welcome to the front page of **Reactive Resume**, a free and open-source Resume Builder web app that focuses on one thing, **Privacy**. And also few other important features such as minimalistic UI/UX, customizability, portability, regularly updated templates, etc. But the important thing is that, your personal data is yours alone.
 
